@@ -4,6 +4,6 @@ A hoi4 mod thats it literally
 Tysm andry for helping me with this mod!
 
 
-uhh, to install in HOI, just go to the launcher, create a new mod, and in the mods directory release all files except for "Escania" and "Escania.mod"
+this tutorial was deleted since i realised i'm a femboy
 
 np justa
