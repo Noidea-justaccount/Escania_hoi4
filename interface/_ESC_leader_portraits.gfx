@@ -1,0 +1,35 @@
+spriteTypes = {
+
+    spriteType = { 
+        name= "GFX_portrait_ESC_random" 
+        texturefile = "gfx/leaders/ESC/Random.dds"
+    }
+    spriteType = { 
+        name= "GFX_idea_ESC_dani" 
+        texturefile = "gfx/corps_commander/ESC/dani.dds"
+    }
+    spriteType = {
+        name= "GFX_idea_ESC_entanoz" 
+        texturefile = "gfx/corps_commander/ESC/entanoz.dds"
+    }
+    spriteType = {
+        name= "GFX_idea_ESC_logic_guy" 
+        texturefile = "gfx/corps_commander/ESC/logic_guy.dds"
+    }
+    spriteType = {
+        name= "GFX_idea_ESC_polish_guy" 
+        texturefile = "gfx/corps_commander/ESC/polish_guy.dds"
+    }
+    spriteType = {
+        name= "GFX_idea_ESC_pororko" 
+        texturefile = "gfx/corps_commander/ESC/pororko.dds"
+    }
+    spriteType = {
+        name= "GFX_idea_ESC_random" 
+        texturefile= "gfx/field_marshal/ESC/Random.dds" 
+    }
+    spriteType = {
+        name= "GFX_idea_ESC_advisor_generic
+        texturefile= "gfx/advisor/ESC/Generic.dds"
+    }
+}
