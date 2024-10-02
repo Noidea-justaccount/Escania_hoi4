@@ -1,6 +1,6 @@
 capital = 386
 
-oob = "ESC_1936"
+load_oob = "ESC_1936"
 
 set_convoys = 100
 set_research_slots = 4 
@@ -29,6 +29,17 @@ set_popularities = {
     neutrality = 0
 }
 
+create_country_leader = {
+	name = "President Stanley"
+#	desc = "Rightful and honorable president of Escania"
+	picture = "gfx/leaders/ESC/Random.dds"
+	expire = "2000.1.1"
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}
+
 recruit_character = ESC_leader
 recruit_character = ESC_field_marshal
 recruit_character = ESC_general_entanoz 
@@ -39,3 +50,4 @@ recruit_character = ESC_general_pororko
 recruit_character = ESC_general_polish_guy
 recruit_character = ESC_general_logic_guy 
 recruit_character = ESC_advisor_zel
+recruit_character = ESC_advisor_entanoz
