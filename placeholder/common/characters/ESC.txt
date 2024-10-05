@@ -1,0 +1,118 @@
+characters={ 
+    ESC_leader={
+        name=ESC_leader
+        portraits={
+            civilian={
+                large=GFX_portrait_ESC_random
+            }
+        }
+    }
+    country_leader={
+        ideology=fascism_ideology
+        traits={ Fascist Populist }
+        expire="1984.1.1"
+    }
+    ESC_field_marshal={
+        name=ESC_field_marshal
+        portraits={
+            army={
+                large=GFX_portrait_ESC_random
+           }
+        }
+          field_marshal={
+        trait={ media_personality armor_officer war_hero winter_specialist }
+        skill=5 
+        attack_skill=4
+        defense_skill=4
+        planning_skill=4
+        logistics_skill=3
+        }
+    }
+    ESC_general_dani={
+        name=ESC_general_dani
+        portraits={
+            army={
+                large=GFX_portrait_ESC_dani
+            }
+        }
+        corps_commander={
+			traits={ panzer_expert }
+			skill=3
+			attack_skill=4
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+
+    }
+    ESC_general_entanoz={
+        name=ESC_general_entanoz
+        portraits={
+            army={
+                large=GFX_portrait_ESC_entanoz
+            }
+        }
+         corps_commander={
+			traits={ panzer_expert infantry_officer }
+			skill=3
+			attack_skill=5
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+    ESC_general_logic_guy={
+        name=ESC_general_logic_guy
+        portraits={
+            army={
+                large=GFX_portrait_ESC_logic_guy
+            }
+        }
+         corps_commander={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=4
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+    ESC_general_pororko={
+        name=ESC_general_pororko
+        portraits={
+            army={
+                large=GFX_portrait_ESC_pororko
+            }
+        }
+         corps_commander={
+			traits={ panzer_expert infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+    ESC_general_polish_guy={
+        name=ESC_general_polish_guy
+        portraits={
+            army={
+                large=GFX_portrait_ESC_polish_guy
+            }
+        }
+         corps_commander={
+			traits={ panzer_expert }
+			skill=3
+			attack_skill=5
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+}
+
