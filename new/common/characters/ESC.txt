@@ -1,0 +1,177 @@
+characters={ 
+    ESC_field_marshal={
+        name=Raandom
+        portraits={
+            army={
+                large=GFX_portrait_ESC_random
+           }
+        }
+          field_marshal={
+        traits={ media_personality armor_officer war_hero winter_specialist }
+        skill=5 
+        attack_skill=4
+        defense_skill=4
+        planning_skill=4
+        logistics_skill=3
+        }
+    }
+    ESC_general_dani={
+        name=Dani 
+        portraits={
+            army={
+                large=GFX_idea_ESC_dani
+            }
+        }
+        corps_commander={
+			traits={ panzer_expert }
+			skill=3
+			attack_skill=4
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+
+    }
+    ESC_general_entanoz={
+        name=Entanoz
+        portraits={
+            army={
+                large=GFX_idea_ESC_entanoz
+            }
+        }
+         corps_commander={
+			traits={ panzer_expert infantry_officer }
+			skill=3
+			attack_skill=5
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+    ESC_general_logic_guy={
+        name=Logic_guy
+        portraits={
+            army={
+                large=GFX_idea_ESC_logic_guy
+            }
+        }
+         corps_commander={
+			traits={ infantry_officer }
+			skill=3
+			attack_skill=4
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+    ESC_general_pororko={
+        name=Borsuk
+        portraits={
+            army={
+                large=GFX_idea_ESC_pororko
+            }
+        }
+         corps_commander={
+			traits={ panzer_expert infantry_officer }
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+    ESC_general_polish_guy={
+        name=polish_guy
+        portraits={
+            army={
+                large=GFX_idea_ESC_polish_guy
+            }
+        }
+         corps_commander={
+			traits={ panzer_expert }
+			skill=3
+			attack_skill=5
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=-1
+		}
+    }
+    ESC_advisor_entanoz={
+        name=Entanoz
+        portraits={
+            army={
+                small=GFX_idea_ESC_entanoz
+            }
+        }
+        advisor={
+            idea_token = ESC_entanoz 
+            traits = { head_of_intelligence Popular_Figurehead head_of_intelligence }
+            cost = 100 
+            slot = political_advisor
+        allowed = {
+            original_tag = ESC
+        }
+        }
+    }
+    ESC_advisor_Justakotan={
+        name=Justakotan 
+        portraits={
+        army={
+                small=GFX_idea_ESC_Justakotan
+            }
+        }
+        advisor={
+            cost = 100
+            slot = political_advisor
+            idea_token = ESC_advisor_justakotan
+            allowed = {
+                original_tag = ESC 
+            }
+            traits = {
+                
+            }
+        }
+    }
+    ESC_advisor_zel={
+        name=Zelhimself 
+        portraits={
+            army={
+                small=GFX_idea_ESC_zel
+            }
+        }
+        advisor={
+            cost = 150
+            slot = political_advisor
+            idea_token = ESC_zel 
+            allowed = {
+                original_tag = ESC
+            }
+            traits = {
+
+            }
+        }
+    }
+    ESC_advisor_akari={
+        portraits={
+            army={
+                small=GFX_idea_ESC_akari
+            }
+        }
+        advisor={
+            cost = 100
+            slot = political_advisor
+            idea_token = ESC_akari
+            allowed = {
+                original_tag = ESC
+            }
+            traits = {
+
+            }
+        }
+    }
+}

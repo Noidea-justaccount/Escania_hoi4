@@ -1,0 +1,1 @@
+ESC = "countries/escania.txt"

@@ -1,0 +1,319 @@
+Things to add in the Republic of Escania! 
+
+spirits: 
+	-Escanian nationalism
+		+0.10% weekly war support 
+		+0.10% weekly stability 
+		+1 daily political power gain
+	-A ghost of its former self 
+		-15% base stability 
+		-10% base war support 
+	-Woman not allowed in the army 
+		-0.10% Recluitable population
+		+10% $ monthly population 
+		+5% consumer goods 
+	-State of the Escanian armed forces
+		-10% division attack 
+		-15% division defense 
+		+0.10% daily army XP 
+	-Inneficient economy.
+		GFX: french inneficient economy 
+		+10% consumer goods 
+		-10% construction speed 
+		-10% factory output 
+		-15% dockyard output 
+
+Political branch of the focus tree: 
+	-elecion of 1997 (has to be after 1.1.1997) 
+Unlocks 3 paths: 
+
+	-President Stanley wins (Historical) 
+		-Stanley's military reform 
+			-Adds spirit 'President's military reforms'
+				Grants:
+					-Daily army XP: 0.10 
+					-Division Attack and Defense on cores: 50% 
+				gets removed after 1 year 
+			-Removes 50 Army Xp 
+			-Removes 'State of the escanian army' 
+		-Further militarization 
+			-Adds spirit 'A State for an army' 
+				Grants: 
+					10% division atk 
+					25% division Defense 
+				Adds 50 Army XP 
+		-Demand Montana
+			-(USA) Gets event 'Escania demands montana!) 
+				-If they refuse, bypass the following focuses
+					-Demand the west coast! 
+					-Demand the midwest 
+					-Demand the cowboy state! 
+					-Reconquest of our mainland  
+					-Gains war goal on the US
+					-USA Gains cores on all escanian soil 
+					(Escania) gains spirit 'Agaisnt the yanks!' that has the following modifiers:
+						+50% ATK / DEF Division agaisnt the USA
+					(Escania) gains cores on the USA
+				If they accept: 
+					(Escania) becomes owner and cores Montana
+		-Demand The West cost 
+			-(-USA) Gets event 'Escania denamnds the west coast!' 
+				If they refuse, by pass the following focuses: 
+					-Demand the rocky states 
+					-Demand the cowboy state 
+					-Reconquest of our mainland 
+					-Gains warr goal (invasion) on the us 
+					-USA Gains cores on all escanian soil 
+					(Escania) gains sipirit 'Agaisnt the yanks' with the following spirits: 
+						+50% ATK / DEF Division agaisnt the USA 
+				IF they accept: 
+					-Escania ecomes owner and cores california, alaska and hawaii 
+					-News (USA gives up the west coast!) 'wil this be the end of the usa?' 
+		Demand the midwest  
+			(USA) Gets event 'Escania demands the rocky states!' 
+				If they refuse: 
+					bpass the folowing focuses: 
+					-Demand Texas 
+					-Reconquest of our mainland 
+					Gains war goal on the US
+					USA Gains cores on all escanian cores 
+					(Escabia) gains spirit 'Agaisnt the yanks' 
+				if they accept: 
+					Escania becomes owner and cores the following states: 
+						-Arizona
+						-New mexico
+						-Nevada
+						-Wymoning  
+						-colorado
+						-utah
+		Demand Texas:
+			(USA) gets event 'Escania demands Texas!' 
+				-If they refuse bypass the following focus:  
+					-Reconquest of our mainland 
+					-Gains a war goal on the US 
+					USA gains cores on all Escanian cores 
+					(Escania) gains spirit 'Agaisnt the yanks' 
+				-If they accept: 
+					Escania becomes owner and cores texas 
+					Escania gains spirit 'We control the pacific!' that grants: 
+						-Daily political power: 1 
+						-Base Stability & War support: +15 
+						-Division attack and defense modifier: 25% 
+						-Consumer goods: -10% 
+						-Construction speed: 25% 
+						-Recluitable populatin: 10% 
+						-Daily complience gain: 5 
+						-Research speed for destroyers and cruisers: 10% 
+		-Reinvade our mainland! 
+			-Adds spirit 'Against the yanks!'
+				50% ATK / DEF Division on core territory 
+			-Gains cores on all the US
+		(Escania) gets event 'A mysterious man arrives!) 
+			Option 1: 'Kick him!'
+				Nothing 
+			Option 2: ask him questions 
+				Escania gets event 'Man refuses to answer' 
+					Option 1: 'Execute him '
+						notihng
+					OPtion 2: 'Ask his name' 
+							Escania gets event 'Man finally responds..' 
+								 
+	-Justakotan or Zel's Bonapartist reform: 
+		Go with Justakotan 
+			-select our new leader 
+				(Escania) gets event 'selecting our new leader'
+					option: 1 'Zel'
+						-Zel becomes leader of Escania
+					Option: 2 'Justakotan'
+						-Justakotan becomes leader of Escania
+			-Danishisaion of Escania 
+				-(Denmark) Gains event 'Escania demands unification'
+					If no, (denmark) Non aligned will start a civil war 
+					If yes, Escania cores denmark
+						-Escania takes over Denmark
+						-Changes name to 'Danish empire'
+						-Changes capital to cph 
+			-Shoot immigrants 
+				-Generates 25% world tension 
+				-Fascism support increases by 25% 
+				-Non-Aligned Support increases by 25%
+				-Stability: +5% 
+				-War support: +10% 
+				-Gains spirit 'Polska' 
+					-Monthtly population: -5% 
+					-Defense on core terrirtory 20%
+			-Reconquerer Skane 
+				(sweden) gains event 'Denmark demands Skane!' 
+					if they refuse: 
+						(Escania) Gets war goal agaisnt Sweden 
+						-Gains core in Skane 
+						-Gains spirit 'A State for an army' that grants: 
+							10% division atk agaisnt sweden for 100 days 
+							25& diviion Defense agaisnt sweden for 100 days 
+					if they accept; 
+						Escania becomes owner of Skane 
+						Escania cores Skane 
+			-Invasion of Norway 
+				-Gets a war goal agaisnt Norway 
+			-Puppet Finland 
+				-(Finland) Gains event 'Denmark demands domination over Finnish politics! 
+					-IF No, Denmark gets a war goal on Finland
+					-If Yes, Finland becomes a puppet of Denmark
+			-Unlocks decision to reunite scandinavia 
+				-Gains core on all Scandinavian states 
+				-Gains spirit 'An united Scandinavia'
+					10% Core defense 
+					25% Core attack
+					Reclutable population: 10% 
+					-10% Consumer goods 
+		Go with Zelhimself 
+			-Formation of a bonapartist led government 
+				-Reconquest of our claims! 
+					-Gains core on Belgium, France and Netherlands 
+					-Changes flag to French one 
+					-Changes capital to paris 
+					-Gains War goal on the netherlands and Belgium 
+					-Sends event to france to reunite with Escania 
+			-Viva l' france! 
+			REQ:
+				Controls Ile d'France 
+				-Gains spirit 'Spirit of the Baguette' 
+					-Division atk: 10% 
+					25% Division Defense 
+			-An unstopabble force 
+				-Gains spirit 'Unstopabble force' 
+					-Division atk: 25% 
+					-Defense on core territory: 25% 
+			-Never a waterloo again
+				-Gains war goal on the UK
+				-Gains spirit 'Napoleonic Style' 
+					-Division atk: 10% 
+					-Core Division atk: 25% 
+			-Depose Mussoloni 
+				-Mussolini reitres 
+				-The Grand council of fascism is put in place
+			-Desunite Italy 
+				-Frees and Puppets sardinia-piadmont 
+				-Frees and Puppets Lombardia 
+				-Austria becomes owner of South tyrol and venice 
+				-Frees and Puppets Tuscania 
+			-Remake the German confederation 
+				-(German Reich) gets event 'France demands the remake of The german confederation 
+				-If they refuse France gains a war goal on them 
+				-If they accept: 
+						-All of the German states gets released and puppeted by France 
+			-Our Empire great again! 
+				-Add spirit 'Glory of The Empire' 
+					-Consumer goods: -25% 
+					-Daily political power gain: 10
+					-Weekly War Support and Stability: 1.0 
+					Recluitable Population: 10% 
+					Daily complience gain: 5% 
+					Division atk: 5% 
+					Dockyard and military industrial complex output: 20% 
+ Industrial branch 
+	-Escanian Industry 
+		-Fund the IRA
+			-Zel becomes general
+			+1 military factory 
+		-Invest into private companies 
+			+2 civilian factories 
+		-Develop the ESMIC
+			+3 Military factories 
+		-Fund the Navy 
+			+2 dockyards 
+		-Invest into deer crackers 
+			Adds spirit 'low deer cracker production' that grants:
+			-5% consumer goods 
+			10% civilian factory construction speed 
+			10% military factory construction speed
+		-Increase deer cracker production: 
+			removes spirit 'low deer cracker production' 
+			adds spirit 'medium deer cracker production' that grants:
+				-10% Consumer goods 
+				20% military / civilian construction speed
+				5% stability
+		-Further investments into deer cracker production 
+			Replaces Spirit 'medium deer cracker production' with 'high deer cracker production' that gives the following effect: 
+				-15% consumer goods 
+				+10% stability 
+				25% construction speed 
+			(Escania) gains event 'We have a ton of deer crackers!'
+				Option 1: 'Nothing worrying'
+				Option 2: 'politics are over deer crackers! Stop that now!'
+					Removes spirit(s) Low / Medium / High Deer cracker production
+					(Escania) gets event 'we have angered the deers'
+						Option 1: 'So?'
+							(Escania) gets event 'The deer revolution'
+								(desc) 'The deers has launched a revolution and stormed parliament aiming to take over the nation'
+								Option 1: 'We messed up'
+									Escania:
+										President stanley retires
+										The non aligned party will become the ruling party 
+										Justakotan will become the leader of the non aligned party 
+										Adds spirit 'The deer nation' that gives the following effect: 
+											+10% DEF / atk division
+											Consumer goods -10% 
+											Recluitable population: 1.0
+						Option 2: 'Start the deer cracker production now!'
+								Adds spirit 'Medium deer cracker production'
+
+Armed forces: 
+	-The escanian ground forces 
+		-Go with Borsuk
+			-Mechanization effort 
+				2x100% research bonus for mech 
+		-Go with Entanoz  
+			-Overwhelming firepower 
+				gets spirit 'Queen of the land' 
+					10% Artillery attack 
+				2x100% research bonus for Artillery 
+			-Infantry Research 
+				3x100% Research bonus for Infantry equipment 
+	-The Escanian navy
+		-Go with Justakotan 
+			-Plan 'E'
+				Add spirit: 
+					'Plan E'
+						10% DEF/ATK for screens and Capitals
+			-Fund the research of better ships 
+				-1x100% research bonus for destroyer 
+				-1x100% research bonus for cruiser 
+		-Go with Erik 
+			-Underwater Wolfs 
+				Add spirit: 
+					-Wolfpack force 
+						10% DEF/ATK for submarines and -5% reduction of visibility for submarines 
+
+
+Parties: 
+	-Escanian conservative party 
+		-Ideology: Fascism 
+		-Leader: President Stanley 
+	If user went Zel's Bonapartist path the non aligned party will be 
+		'Bonpartists' 
+		Leader: Zel or Napoleon 
+	If Justakotan is leader the non aligned party will be 
+		'Shikas'
+		Leader: Justakotan
+How to: 
+	-Remove some spirits: 
+		Ghost of its former self 
+			Has to control or own Washington DC 
+		Inneficient economy:
+			has to have more than 50 civilian factories
+		Woman Not allowed on the army 
+			if conscription law is above 'All adults serve' focus
+				gets removed! 
+	-Change. 
+		Escanian army 
+			Has to complete focus 'Reform the escanian army' 
+				that will lose 100 army xp, 100 political power and add spirit 'A modernized army' 
+
+Hidden spirits: 
+	'a modernized army' 
+		Grants:
+			25% def / atk on core territory 
+			0.20 daily army xp 
+	'			
+
