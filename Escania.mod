@@ -6,12 +6,6 @@ tags={
 }
 name="Escania"
 supported_version="1.14.8"
-name="Escania"
-supported_version="1.14.8"
-replace_path="common/countries"
-replace_path="common/country_tags"
-replace_path="history/states"
-replace_path="history/countries"
+replace_path="common/bookmarks"
 remote_file_id="3341187719"
 path="C:/Users/Justaccountp/Documents/Paradox Interactive/Hearts of Iron IV/mod/Escania"
-remote_file_id="3341187719"
