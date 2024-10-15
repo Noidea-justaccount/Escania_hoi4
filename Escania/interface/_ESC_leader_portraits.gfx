@@ -6,30 +6,54 @@ spriteTypes = {
     }
     spriteType = { 
         name= "GFX_idea_ESC_dani" 
-        texturefile = "gfx/corps_commander/ESC/dani.dds"
+        texturefile = "gfx/corps_commander/dani.dds"
     }
     spriteType = {
         name= "GFX_idea_ESC_entanoz" 
-        texturefile = "gfx/corps_commander/ESC/entanoz.dds"
+        texturefile = "gfx/corps_commander/entanoz.dds"
     }
     spriteType = {
         name= "GFX_idea_ESC_logic_guy" 
-        texturefile = "gfx/corps_commander/ESC/logic_guy.dds"
+        texturefile = "gfx/corps_commander/logic_guy.dds"
     }
     spriteType = {
         name= "GFX_idea_ESC_polish_guy" 
-        texturefile = "gfx/corps_commander/ESC/polish_guy.dds"
+        texturefile = "gfx/corps_commander/polish_guy.dds"
     }
     spriteType = {
         name= "GFX_idea_ESC_pororko" 
-        texturefile = "gfx/corps_commander/ESC/pororko.dds"
+        texturefile = "gfx/corps_commander/pororko.dds"
     }
     spriteType = {
-        name= "GFX_idea_ESC_random" 
-        texturefile= "gfx/field_marshal/ESC/Random.dds" 
+        name= "GFX_idea_ESC_Justakotan" 
+        texturefile = "gfx/advisers/Justakotan.dds"
     }
     spriteType = {
-        name= "GFX_idea_ESC_advisor_generic
-        texturefile= "gfx/advisor/ESC/Generic.dds"
+        name= "GFX_idea_ESC_zel"
+        texturefile= "gfx/advisers/zel.dds"
+    }
+    spriteType= {
+        name= "GFX_idea_ESC_akari" 
+        texturefile= "gfx/advisers/akari.dds"
+    }
+    spriteType= {
+        name= "GFX_Low_Shika" 
+        texturefile= "gfx/spirits/placeholder.dds"
+    }
+    spriteType= {
+        name= "GFX_army"
+        texturefile= "gfx/spirits/placeholder.dds"
+    }
+    spriteType= {
+        name= "GFX_ECO" 
+        texturefile= "gfx/spirits/placeholder.dds" 
+    }
+    spriteType= {
+        name= "GFX_ESCANIA_NATIONALISM" 
+        texturefile= "gfx/spirits/placeholder.dds"
+    }
+    spriteType = {
+        name = "SMALL_GFX_idea_ESC_entanoz"
+        textureFile= "gfx/advisers/entanoz.dds"
     }
 }
