@@ -1,14 +1,96 @@
-ideas = {
+﻿ideas = {
     country = {
-        deer_crackers = {
-            picture = GFX_ECO
+        low_deer_crackers = {
+
+            allowed = {
+                always = no 
+            }
+
+            allowed_civil_war = {
+				always = yes
+			}
+            
+            removal_cost = -1
+
+            picture = GFX_l_deer_Crackers
 
             modifier = {
-                political_power_gain = 0.3
+                consumer_goods_factor = 0.5
+                production_speed_arms_factory_factor = 0.10
+                production_speed_industrial_complex_factor = 0.10 
             }
         }
-        escanian_nationalism = {
+        mid_deer_crackers = {
+
+            allowed = {
+                always = no 
+                original_tag = ESC
+            }
+            allowed_civil_war = {
+                always = yes 
+                original_tag = ESC
+            }
+            
+            removal_cost = -1 
+
+            picture = GFX_m_deer_crackers 
+
+            modifier = {
+                consumer_goods_factor = 0.10
+                production_speed_arms_factory_factor = 0.20
+                production_speed_industrial_complex_factor = 0.20
+                stability_factor = 0.5
+            }
+        }
+        woman_army = {
+
+            allowed = {
+                always = yes 
+                tag = ESC
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1 
+
+            modifier = {
+                consumer_goods_factor = 0.05
+                monthly_population = 0.10 
+                conscription_factor = 0.01
+            }
+        }
+        high_deer_crackers = {
+
+            allowed = { 
+                always = no 
+            }
+            allowed_civil_war = {
+                always = yes 
+
+            }
+            removal_cost = -1 
+
+            picture = GFX_h_deer_crackers 
+
+            modifier = {
+                consumer_goods_factor = 0.20
+                stability_factor = 1.0 
+                production_speed_arms_factory_factor = 0.25
+                production_speed_industrial_complex_factor = 0.25 
+            }
+        }
+        Escanian_nationalism = {
             picture = GFX_ESCANIA_NATIONALISM
+
+            allowed = {
+                always = yes
+            }
+
+            allowed_civil_war = {
+				always = yes
+			}
+            
+            removal_cost = -1
 
             modifier = {
                 political_power_gain = 1.0
@@ -16,17 +98,28 @@ ideas = {
                 war_support_weekly = 0.10 
             }
         }
-        onefficient_economy = {
-            picture = GFX_ECO
+
+        ESC_Inefficient_economy = {
+            picture = generic_local_self_management
+
+
+            allowed = {
+                original_tag = ESC
+                always = no 
+            }
+
+            allowed_civil_war = {
+                original_tag = ESC
+				always = yes
+			}
+            
+            removal_cost = -1
 
             modifier = {
                 consumer_goods_factor = 10
                 industrial_capacity_factory	= 0.1
                 industrial_capacity_dockyard = 0.1
-            }
+            }    
         }
     }
-		    allowed = {
-				original_tag = ESC
-			}
 }
