@@ -1,40 +1,36 @@
-### search_filters = {FOCUS_FILTER_POLITICAL}
-### search_filters = {FOCUS_FILTER_RESEARCH}
-### search_filters = {FOCUS_FILTER_INDUSTRY}
-### search_filters = {FOCUS_FILTER_STABILITY}
-### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
-### search_filters = {FOCUS_FILTER_MANPOWER}
-### search_filters = {FOCUS_FILTER_ANNEXATION}
+country_event = { #choosing president
+	id = ESC_president_events.1
+	title = ESC_president_events.1.t
+	desc = ESC_president_events.1.d
+	picture = GFX_report_event_generic_rally
 
-focus_tree = {
-	id = escania_focus
-	
-	country = {
-		factor = 0
-		
-		modifier = {
-			add = 10
-			tag = ESC
-		}
-	}
-   
-    default = no
+	is_triggered_only = yes
 
-    ########################
-    ########POLITICS########
-    ########################
-
-    focus = {
-        id = idk_ask_justa
-        icon = placeholder
-        x = 0 
-        y = 0 
-        cost = 5
-        search_filters = { FOCUS_FILTER_POLITICAL }
-        ai_will_do = {
-            factor = 10
+	option = { #justakotan victory
+		name = ESC_president_events.1.a
+		ai_chance = {
+			base = 5
+	    }
+        trigger = {
+            complete_national_focus =  ESC_justa_victory
         }
-		completion_reward = {
-		}
+    }
+    option = { #stanleyvictory
+		name = ESC_president_events.1.b
+		ai_chance = {
+			base = 5
+	    }
+        trigger = {
+            complete_national_focus =  ESC_stanley_victory
+        }
+    }
+    option = { #zelhimself victory
+		name = ESC_president_events.1.c
+		ai_chance = {
+			base = 5
+	    }
+        trigger = {
+            complete_national_focus =  ESC_zel_victory
+        }
     }
 }
