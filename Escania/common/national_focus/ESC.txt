@@ -18,7 +18,7 @@ country_event = { #choosing president
     option = { #stanleyvictory
 		name = ESC_president_events.1.b
 		ai_chance = {
-			base = 5
+			base = 12
 	    }
         trigger = {
             complete_national_focus =  ESC_stanley_victory
@@ -33,4 +33,19 @@ country_event = { #choosing president
             complete_national_focus =  ESC_zel_victory
         }
     }
+}
+country_event = {
+	id = ESC_montana_events.2
+	title = ESC_montana_events.2.t
+	desc = ESC_montana_events.2.d
+	picture = GFX_report_event_generic_rally
+
+	is_triggered_only = yes
+
+	option = { 
+		name = ESC_montana_events.2.add
+		ai_chance = 10
+		trigger = {
+		}
+	}
 }
