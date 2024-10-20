@@ -1,15 +1,9 @@
-# Escania_hoi4
-A hoi4 mod thats it literally 
+# Hallo!
+This is Justaccount 
 
-Tysm andry for helping me with this mod!
+The MOD is gone, discontinued due to the main guy that basically gave me the idea of the mod is well.. gone (not from earth)...
 
-TODO List: 
-  -Focus trees 
-  -National spirits 
-  -Military staff (Army high command and military theorist) 
-  -Music! 
-  -Katzenburg 
-  -GFX for Katzenburg 
-  
+I will stop this if you want to modify it go ahead but i will not update this until further notice 
 
-np justa 
+thanks andry for helping with the mod.
+
